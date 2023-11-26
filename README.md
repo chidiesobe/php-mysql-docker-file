@@ -1,0 +1,1 @@
+# A simple docker configuration file using PHP 8.2 MySQL 8 and Phpmyadmin
